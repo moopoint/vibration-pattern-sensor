@@ -1,5 +1,5 @@
-# vibration-pattern-sensor
-Using arduino + SW-420 to detect vibration patterns and publish them to MQTT
+# Vibration pattern sensor
+Using Wemos D1 mini (esp8266) + SW-420 to detect vibration patterns and publish them to MQTT
 
 <img src="http://irishelectronics.ie/WebRoot/Register365/Shops/950018241/55E3/2665/B630/EA5E/DC8F/C0A8/190C/C347/sensor1.JPG" width="128">
 
